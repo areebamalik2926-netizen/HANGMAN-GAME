@@ -74,9 +74,5 @@ README.md
 
 * **Name:** Areeba Adeel
 
-
-* **Education:** BS Physics, PIEAS
-
-
 * **Role:** CodeAlpha Python Programming Intern
 
