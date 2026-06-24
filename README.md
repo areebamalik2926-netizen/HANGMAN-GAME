@@ -1,36 +1,82 @@
-#Hangman Game
 
--A terminal-based Hangman game built with Python as part of my CodeAlpha Python
--Programming Internship.
 
-#Features
+# Hangman Game
 
--5 built-in words from a science/tech theme (e.g. python, quantum, gravity)
--Visual hangman ASCII art that updates with each wrong guess
--6 chances to guess the word letter by letter
--Tracks letters already tried
+A terminal-based Hangman game built with Python as part of my CodeAlpha Python Programming Internship.
 
-#How to Run
+---
 
--Make sure Python 3 is installed, then run:
--python hangman.py
--No external libraries required — uses only the built-in random module.
+## 🚀 Features
 
-#How to Play
+* **5 built-in words** from a science/tech theme (e.g., python, quantum, gravity)
 
-1. A random word is chosen and shown as blanks ( _ )
-2. Enter one letter at a time
-3. Correct guesses reveal the letter in the word
-4. 6 wrong guesses and it’s game over!
 
-#Project Structure
+* **Visual hangman ASCII art** that updates with each wrong guess
 
-hangman.py # Main game file
-README.md # Project documentation
 
-#Author
+* **6 chances** to guess the word letter by letter
 
-Areeba Adeel 
 
-CodeAlpha Python Programming Intern
+* **Tracks letters** already tried
+
+
+
+---
+
+## 💻 How to Run
+
+Make sure Python 3 is installed, then run:
+
+```bash
+python hangman.py
+
+```
+
+> **Note:** No external libraries required — uses only the built-in `random` module.
+> 
+> 
+
+---
+
+## 🎮 How to Play
+
+1. A random word is chosen and shown as blanks (`_ _ _`).
+
+
+2. Enter one letter at a time.
+
+
+3. Correct guesses reveal the letter in the word.
+
+
+4. 6 wrong guesses and it's game over!
+
+
+
+---
+
+## 📁 Project Structure
+
+```text
+hangman.py
+ └── # Main game file
+
+README.md
+ └── # Project documentation
+
+```
+
+(Structure adapted from source)
+
+---
+
+## 👤 Author
+
+* **Name:** Areeba Adeel
+
+
+* **Education:** BS Physics, PIEAS
+
+
+* **Role:** CodeAlpha Python Programming Intern
 
